@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.tan.wisatayogya">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".alam_seribu_batu_songgolangit"></activity>
+        <activity android:name=".alam_goa_cerme" />
+        <activity android:name=".alam_kampung_edukasi_lumbung" />
+        <activity android:name=".alam_watulawang" />
+        <activity android:name=".alam_kebun_teh_nglinggo" />
+        <activity android:name=".alam_puncak_suroloyo" />
+        <activity android:name=".alam_spot_riyadi" />
+        <activity android:name=".alam_lava_bantal" />
+        <activity android:name=".alam_bukit_klangon" />
+        <activity android:name=".alam_bukit_teletubis" />
+        <activity android:name=".desa_bejiharjo" />
+        <activity android:name=".desa_bobung" />
+        <activity android:name=".desa_mojo" />
+        <activity android:name=".desa_manding" />
+        <activity android:name=".desa_nglanggeran" />
+        <activity android:name=".desa_krebet" />
+        <activity android:name=".desa_tembi" />
+        <activity android:name=".desa_giriloyo" />
+        <activity android:name=".desa_pentingsari" />
+        <activity android:name=".desa_kelor" />
+        <activity android:name=".desa_gamplong" />
+        <activity android:name=".desa_kasongan" />
+        <activity android:name=".desa_kebonagung" />
+        <activity android:name=".desa_kaki_langit" />
+        <activity android:name=".desa_banjaroya" />
+        <activity android:name=".desa_pulesari" />
+        <activity android:name=".desa_tanjung" />
+        <activity android:name=".desa_sambi" />
+        <activity android:name=".cafe_jogja_vespa" />
+        <activity android:name=".cafe_bong_kopitiam" />
+        <activity android:name=".cafe_blanco" />
+        <activity android:name=".cafe_kongkalikong" />
+        <activity android:name=".cafe_warungkopi_negri" />
+        <activity android:name=".cafe_lotus_mio" />
+        <activity android:name=".cafe_le_travail" />
+        <activity android:name=".cafe_six_sense" />
+        <activity android:name=".cafe_kalimilk" />
+        <activity android:name=".cafe_raoaster_and_bear" />
+        <activity android:name=".cafe_Awor_Gallery_and_Coffee" />
+        <activity android:name=".cafe_Indische_Koffie" />
+        <activity android:name=".cafe_kopi_mataram" />
+        <activity android:name=".cafe_epic" />
+        <activity android:name=".cafe_nox" />
+        <activity android:name=".pantai_poktunggal" />
+        <activity android:name=".pantai_sadranan" />
+        <activity android:name=".pantai_krakal" />
+        <activity android:name=".pantai_drini" />
+        <activity android:name=".pantai_parangndok" />
+        <activity android:name=".pantai_watugupit" />
+        <activity android:name=".pantai_slili" />
+        <activity android:name=".pantai_jungwok" />
+        <activity android:name=".pantai_watulumbung" />
+        <activity android:name=".pantai_seruni" />
+        <activity android:name=".museum_sonobudoyo_1" />
+        <activity android:name=".museum_rs_mata_dryap" />
+        <activity android:name=".museum_geoteknologi_upn" />
+        <activity android:name=".museum_affandi" />
+        <activity android:name=".museum_anak_kolong_tangga" />
+        <activity android:name=".museum_bahari_yogyakarta" />
+        <activity android:name=".museum_benteng_vredeburg" />
+        <activity android:name=".museum_biologi" />
+        <activity android:name=".MuseumDigantara" />
+        <activity android:name=".museum_suharto" />
+        <activity android:name=".cafeActivity" />
+        <activity android:name=".oleh2Activity" />
+        <activity android:name=".alamActivity" />
+        <activity android:name=".desaActivity" />
+        <activity android:name=".pantaiActivity" />
+        <activity android:name=".activity_museum" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
